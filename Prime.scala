@@ -30,6 +30,7 @@ object Prime {
 				i = i + 2
 			}	
 		}
+		
 		flag
 	}
 }
